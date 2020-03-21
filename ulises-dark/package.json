@@ -1,0 +1,24 @@
+{
+    "title": "Ulises Dark",
+    "name": "ulsies.dark",
+    "description": "A dark theme.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Ulises Freitas",
+        "url": "https://github.com/ulisesfreitas"
+    },
+    "homepage": "https://github.com/ulisesfreitas/Brackets",
+    "repository": {
+        "type": "git",
+        "url": "https: //github.com/ulisesfreitas/brackets.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}
